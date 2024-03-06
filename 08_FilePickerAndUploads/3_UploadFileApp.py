@@ -30,7 +30,7 @@ from flet import (
     Text,
     icons,
 )
-from flet.column import Column
+from flet import Column
 
 
 def main(page: Page):
